@@ -3,4 +3,4 @@ pandas
 pulp
 matplotlib
 plotly
-sqlite3
+
