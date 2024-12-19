@@ -1,0 +1,4 @@
+index,productID,price,stock-out,late-delivery
+1,product_a,275,30%, 5%
+2,product_b,165,25%, 4%
+3,product_c,102,20%, 3%
