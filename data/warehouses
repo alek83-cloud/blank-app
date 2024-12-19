@@ -1,0 +1,11 @@
+index,ID,Name,location,capacity,fixed_cost
+1,w1,Warehouse w1,Fiorenzuola d'Arda (Italy),20000,10000
+2,w2,Warehouse w2,Hille (Germany),20000,10000
+3,w3,Warehouse w3,Waltershausen (Germany),20000,10000
+4,w4,Warehouse w4,Levallois-Perret (France),20000,10000
+5,w5,Warehouse w5,Cambrai (France),20000,10000
+6,w6,Warehouse w6,Copparo (Italy),20000,10000
+7,w7,Warehouse w7,Corridonia (Italy),20000,10000
+8,w8,Warehouse w8,Acerra (Italy),20000,10000
+9,w9,Warehouse w9,Ponte San Pietro (Italy),20000,10000
+10,w10,Warehouse w10,Oullins (France),20000,10000
