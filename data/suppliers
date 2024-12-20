@@ -1,9 +1,9 @@
-index,ID,Name,location
-1,s1,Supplier s1,Bassano del Grappa (Italy)
-2,s2,Supplier s2,Torrejon de Ardoz (Spain)
-3,s3,Supplier s3,Merida (Spain)
-4,s4,Supplier s4,Susice (Czech Republic)
-5,s5,Supplier s5,Veendam (Netherlands)
-6,s6,Supplier s6,Alblasserdam (Netherlands)
-7,s7,Supplier s7,Teramo (Italy)
-8,s8,Supplier s8,Picana (Spain)
+ID,Name,location
+s1,Supplier s1,Bassano del Grappa (Italy)
+s2,Supplier s2,Torrejon de Ardoz (Spain)
+s3,Supplier s3,Merida (Spain)
+s4,Supplier s4,Susice (Czech Republic)
+s5,Supplier s5,Veendam (Netherlands)
+s6,Supplier s6,Alblasserdam (Netherlands)
+s7,Supplier s7,Teramo (Italy)
+s8,Supplier s8,Picana (Spain)
