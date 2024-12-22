@@ -1,4 +1,4 @@
-ID,product,price,stock-out,late-delivery
+ID,product,price,stock out % cost,late delivery % cost
 p_a,product_a,275,0.30, 0.05
 p_b,product_b,165,0.25, 0.04
 p_c,product_c,102,0.20, 0.03
