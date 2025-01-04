@@ -1,7 +1,7 @@
 "country","VATTax_StdVATRate_Pct_2024","VATTaxAdditionalDetails"
 "India",18,"The rate of GST varies from 5% to 28% depending upon the category of goods and services being supplied, the general rate of tax being 18% on majority of goods and services. Additionally, for certain goods, a compensation cess is levied at different rates as prescribed by the government."
 "China",13,"The standard VAT rate is 13%, 9%, 6%. Reduced rates of 5%, 2%, 3%, 1.5% and 0.5%"
-"United States",,"There is no VAT in the USA. U.S. state sales and use tax rates vary between 2.9% and 7.25%. Reduced rates are offered for sales of specific products"35294556
+"United States",7.5,"There is no VAT in the USA. U.S. state sales and use tax rates vary between 2.9% and 7.25%. Reduced rates are offered for sales of specific products"35294556
 "Indonesia",11,
 "Pakistan",18,"Pakistan does not have VAT. The standard sales tax rate is 18%. Pakistan has a large number of reduced sales tax rates, including 1%, 2%, 5%, 10% and 12% (among others)"
 "Nigeria",7.5,
