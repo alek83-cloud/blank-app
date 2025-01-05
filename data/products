@@ -1,4 +1,4 @@
 product,price,stock out % cost,late delivery % cost,length,width,height,weight
 product_a,275,0.2,0.05,70,86,69,1
-product_b,165,0.1.5,0.04,97,101,83,3
+product_b,165,0.15,0.04,97,101,83,3
 product_c,102,0.1,0.03,79,110,107,5
