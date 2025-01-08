@@ -1,4 +1,4 @@
-ID,Name,location,capacity,fixed_cost
+ID,Name,location,capacity_[units],fixed_cost_[€]
 w1,Warehouse w1,Fiorenzuola d'Arda (Italy),20000,10000
 w2,Warehouse w2,Hille (Germany),20000,10000
 w3,Warehouse w3,Waltershausen (Germany),20000,10000
