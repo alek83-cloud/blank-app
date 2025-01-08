@@ -1,4 +1,4 @@
-supplierID,product,supply,var_cost
+supplierID,product,supply_[units],var_cost_[€/u]
 s1,product_a,0,0
 s1,product_b,0,0
 s1,product_c,6000,28
