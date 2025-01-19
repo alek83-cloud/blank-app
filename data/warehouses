@@ -1,11 +1,11 @@
-ID,Name,location,capacity_[units],fixed_cost_[€]
-w1,Warehouse w1,Fiorenzuola d'Arda (Italy),20000,10000
-w2,Warehouse w2,Hille (Germany),20000,10000
-w3,Warehouse w3,Waltershausen (Germany),20000,10000
-w4,Warehouse w4,Levallois-Perret (France),20000,10000
-w5,Warehouse w5,Cambrai (France),20000,10000
-w6,Warehouse w6,Copparo (Italy),20000,10000
-w7,Warehouse w7,Corridonia (Italy),20000,10000
-w8,Warehouse w8,Acerra (Italy),20000,10000
-w9,Warehouse w9,Ponte San Pietro (Italy),20000,10000
-w10,Warehouse w10,Oullins (France),20000,10000
+ID,name,location,country,capacity_[units],fixed_cost_[€]
+w1,Warehouse w1,Modena, Italy,20000,10000
+w2,Warehouse w2,Cologne,Germany,20000,10000
+w3,Warehouse w3,Kassel,Germany,20000,10000
+w4,Warehouse w4,Nantes, France,20000,10000
+w5,Warehouse w5,Lisbon, Portugal,20000,10000
+w6,Warehouse w6,Stockholm, Italy,20000,10000
+w7,Warehouse w7,Milan, Italy,20000,10000
+w8,Warehouse w8,Bordeaux, France,20000,10000
+w9,Warehouse w9,Verona, Italy,20000,10000
+w10,Warehouse w10,Valencia, Spain,20000,10000
