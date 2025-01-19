@@ -1,29 +1,29 @@
-ID	Name	Location	Country
-c1	Customer c1	Amsterdam	Netherlands
-c2	Customer c2	Aveiro	Portugal
-c3	Customer c3	Geneva	Switzerland
-c4	Customer c4	Bydgoszcz	Poland
-c5	Customer c5	Milan	Italy
-c6	Customer c6	Portalegre	Portugal
-c7	Customer c7	Appenzell	Switzerland
-c8	Customer c8	Lublin	Poland
-c9	Customer c9	Wroclaw	Poland
-c10	Customer c10	Rome	Italy
-c11	Customer c11	Dresden	Germany
-c12	Customer c12	Zlin	Czech Republic
-c13	Customer c13	Wroclaw	Poland
-c14	Customer c14	Vienna	Austria
-c15	Customer c15	Arnhem	Netherlands
-c16	Customer c16	Trieste	Italy
-c17	Customer c17	Brno	Czech Republic
-c18	Customer c18	Stans	Switzerland
-c19	Customer c19	Groningen	Netherlands
-c20	Customer c20	Solothurn	Switzerland
-c21	Customer c21	Sarnen	Switzerland
-c22	Customer c22	Braganca	Portugal
-c23	Customer c23	Bordeaux	France
-c24	Customer c24	Perugia	Italy
-c25	Customer c25	Bratislava	Slovakia
-c26	Customer c26	Olsztyn	Poland
-c27	Customer c27	Papa	Hungary
-c28	Customer c28	Schwerin	Germany
+ID,Name,Location,Country
+c1,Customer c1,Amsterdam,Netherlands
+c2,Customer c2,Aveiro,Portugal
+c3,Customer c3,Geneva,Switzerland
+c4,Customer c4,Bydgoszcz,Poland
+c5,Customer c5,Milan,Italy
+c6,Customer c6,Portalegre,Portugal
+c7,Customer c7,Appenzell,Switzerland
+c8,Customer c8,Lublin,Poland
+c9,Customer c9,Wroclaw,Poland
+c10,Customer c10,Rome,Italy
+c11,Customer c11,Dresden,Germany
+c12,Customer c12,Zlin,Czech Republic
+c13,Customer c13,Wroclaw,Poland
+c14,Customer c14,Vienna,Austria
+c15,Customer c15,Arnhem,Netherlands
+c16,Customer c16,Trieste,Italy
+c17,Customer c17,Brno,Czech Republic
+c18,Customer c18,Stans,Switzerland
+c19,Customer c19,Groningen,Netherlands
+c20,Customer c20,Solothurn,Switzerland
+c21,Customer c21,Sarnen,Switzerland
+c22,Customer c22,Braganca,Portugal
+c23,Customer c23,Bordeaux,France
+c24,Customer c24,Perugia,Italy
+c25,Customer c25,Bratislava,Slovakia
+c26,Customer c26,Olsztyn,Poland
+c27,Customer c27,Papa,Hungary
+c28,Customer c28,Schwerin,Germany
