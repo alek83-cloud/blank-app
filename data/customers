@@ -1,4 +1,4 @@
-ID,Name,Location,Country
+ID,name,location,country
 c1,Customer c1,Amsterdam,Netherlands
 c2,Customer c2,Aveiro,Portugal
 c3,Customer c3,Geneva,Switzerland
